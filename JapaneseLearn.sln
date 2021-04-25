@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JapaneseLearn", "JapaneseLearn\JapaneseLearn.csproj", "{EC6D2459-ECBE-4865-9D73-E2A57BD18F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC6D2459-ECBE-4865-9D73-E2A57BD18F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6D2459-ECBE-4865-9D73-E2A57BD18F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6D2459-ECBE-4865-9D73-E2A57BD18F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6D2459-ECBE-4865-9D73-E2A57BD18F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AA2BE00-77A8-443B-B9D0-BE37B9D4BC4B}
+	EndGlobalSection
+EndGlobal
