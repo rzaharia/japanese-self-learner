@@ -66,7 +66,7 @@ namespace JapaneseLearn
             // 
             // saveBtn
             // 
-            this.saveBtn.Location = new System.Drawing.Point(181, 368);
+            this.saveBtn.Location = new System.Drawing.Point(244, 366);
             this.saveBtn.Name = "saveBtn";
             this.saveBtn.Size = new System.Drawing.Size(75, 23);
             this.saveBtn.TabIndex = 3;
@@ -76,7 +76,7 @@ namespace JapaneseLearn
             // 
             // loadBtn
             // 
-            this.loadBtn.Location = new System.Drawing.Point(271, 368);
+            this.loadBtn.Location = new System.Drawing.Point(334, 366);
             this.loadBtn.Name = "loadBtn";
             this.loadBtn.Size = new System.Drawing.Size(75, 23);
             this.loadBtn.TabIndex = 4;
@@ -96,19 +96,20 @@ namespace JapaneseLearn
             // 
             // learnBtn
             // 
-            this.learnBtn.Location = new System.Drawing.Point(366, 368);
+            this.learnBtn.Location = new System.Drawing.Point(429, 366);
             this.learnBtn.Name = "learnBtn";
             this.learnBtn.Size = new System.Drawing.Size(75, 23);
             this.learnBtn.TabIndex = 6;
             this.learnBtn.Text = "Learn";
             this.learnBtn.UseVisualStyleBackColor = true;
+            this.learnBtn.Visible = false;
             this.learnBtn.Click += new System.EventHandler(this.learnBtn_Click);
             // 
             // WordsManager
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(785, 421);
+            this.ClientSize = new System.Drawing.Size(695, 421);
             this.Controls.Add(this.learnBtn);
             this.Controls.Add(this.editBtn);
             this.Controls.Add(this.loadBtn);
